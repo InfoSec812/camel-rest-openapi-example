@@ -1,0 +1,7 @@
+.idea
+**/*.iml
+ReadMe.txt
+target
+src/gen
+.openapi-generator
+templates
